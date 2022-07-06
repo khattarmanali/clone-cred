@@ -1,5 +1,6 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useRef, useState } from "react";
-import { useEffect } from "react/cjs/react.development";
+
 import "./productShowcase.css";
 
 const ProductShowcase = () => {
@@ -18,7 +19,7 @@ const ProductShowcase = () => {
     threshold: 0.5,
   };
 
-  useEffect(() => {
+  React.useEffect(() => {
     const observer = new IntersectionObserver(toggleAnimation, options);
     if (!showAnimation) {
       if (ref.current) {
