@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clone-cred/static/css/main.c60ec6bd.css",
-    "main.js": "/clone-cred/static/js/main.c8339ea5.js",
+    "main.js": "/clone-cred/static/js/main.47e53292.js",
     "static/js/787.b43b390b.chunk.js": "/clone-cred/static/js/787.b43b390b.chunk.js",
     "static/media/Gilroy-UltraLight.ttf": "/clone-cred/static/media/Gilroy-UltraLight.768c44ec57dc827381b3.ttf",
     "static/media/Gilroy-Light.ttf": "/clone-cred/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
@@ -13,11 +13,11 @@
     "static/media/Gilroy-Black.ttf": "/clone-cred/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
     "index.html": "/clone-cred/index.html",
     "main.c60ec6bd.css.map": "/clone-cred/static/css/main.c60ec6bd.css.map",
-    "main.c8339ea5.js.map": "/clone-cred/static/js/main.c8339ea5.js.map",
+    "main.47e53292.js.map": "/clone-cred/static/js/main.47e53292.js.map",
     "787.b43b390b.chunk.js.map": "/clone-cred/static/js/787.b43b390b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c60ec6bd.css",
-    "static/js/main.c8339ea5.js"
+    "static/js/main.47e53292.js"
   ]
 }
